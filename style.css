@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Dokdo');
+
+*{
+margin: 0;
+box-sizing: border-box;
+}
+img {
+    width: 100%;
+margin: auto;
+
+}
+
+.team{
+width: 420px;
+height: 900px;
+flex-direction: column;
+justify-content: center;
+margin: auto;
+align-items: center; 
+}
+.rer{
+text-align: center;
+font-family: 'Anton', sans-serif;
+
+}
+
+.p{
+    font-family: 'Anton', sans-serif;
+}
+
+img:hover {
+    transform: scale(1.2) rotate(30deg)
+}
+.gog{
+   width: 300px;
+    height: 50px;
+font-size: 40px; 
+}
+
+
